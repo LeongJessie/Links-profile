@@ -70,3 +70,7 @@ p{
     font-weight: 600;
     cursor: pointer;
 }
+.btn button a{
+    color: var(--text-color);
+    text-decoration: none;
+}
